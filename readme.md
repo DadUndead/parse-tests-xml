@@ -1,5 +1,5 @@
-*Достает вопросы с ответами из файлов xml для итоговых тестов курсов*
+*Gets questions with answers from test.xml files for nd_courses and saves them into separate files*
 
-- Установи Node.js
-- Загрузи файлы xml в папку ./docs
-- Запусти go.bat
+- install Node.js
+- put xml files into ./docs
+- launch go.bat or just node script.js

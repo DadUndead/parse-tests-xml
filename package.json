@@ -1,7 +1,7 @@
 {
   "name": "parsexml",
   "version": "1.0.0",
-  "description": "*Достает вопросы с ответами из файлов xml для итоговых тестов курсов*",
+  "description": "Gets questions with answers from test.xml files for nd_courses and saves them into separate files",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
