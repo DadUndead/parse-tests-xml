@@ -1,0 +1,21 @@
+{
+  "name": "parsexml",
+  "version": "1.0.0",
+  "description": "*Достает вопросы с ответами из файлов xml для итоговых тестов курсов*",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aklimenko",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "file-save": "^0.2.0",
+    "json-query": "^2.1.0",
+    "xml-parser": "^1.2.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
